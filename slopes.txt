@@ -1,0 +1,15 @@
+﻿*************comentarios*******************
+200
+0
+0.003
+4
+1
+12
+
+###---- atributos----###
+1.Número de obstáculos circulares
+2.Número de obstáculos rectangulares
+3.Tamaño de paso(Radio de hiperesferas en el seguimiento)
+4.Pendiente de recta auxiliar 1 (m_1)
+5.Pendiente de recta auxiliar 2 (m_2)
+6.cantida de puntos intermedios+inicio+fin
